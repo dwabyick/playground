@@ -1,4 +1,4 @@
 playground
 ==========
 
-Just a playground for me to twiddle things a bit.
+Just a playground for me to twiddle things a bit more.
